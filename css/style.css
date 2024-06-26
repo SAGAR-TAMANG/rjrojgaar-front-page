@@ -931,3 +931,13 @@ a:focus {
   color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+#hero-love img {
+  width: 50%;
+}
+
+@media (max-width: 992px) {
+  #hero-love img {
+    width: 100%;
+  }
+}
